@@ -1,0 +1,22 @@
+{
+    "name": "nojimage/cakephp-environment",
+    "description": "CakePHP Environment Plugn. The configuration switching library by filebase.",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "environment"],
+    "homepage": "https://github.com/nojimage/cakephp-environment",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Takashi Nojima",
+            "homepage": "http://elasticconsultants.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "Environment"
+    }
+}
