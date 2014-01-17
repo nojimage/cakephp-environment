@@ -4,6 +4,8 @@ The configuration switching library by filebase.
 
 Copyright 2014, ELASTIC Consultants Inc. ([http://elasticconsultants.com](http://elasticconsultants.com))
 
+[![Build Status](https://travis-ci.org/nojimage/cakephp-environment.png?branch=master)](https://travis-ci.org/nojimage/cakephp-environment)
+
 ## Installation
 
 git clone
@@ -58,7 +60,7 @@ switch to production:
 
 ## Usage
 
-Please see Wiki pages.
+Please see [Wiki](https://github.com/nojimage/cakephp-environment/wiki) pages.
 
 ## License
 
