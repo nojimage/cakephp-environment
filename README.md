@@ -14,7 +14,7 @@ git clone
 
 or use composer
 
-    composer require nojimage/cakephp-environment
+    composer require nojimage/cakephp-environment:dev-master
 
 
 ## How to Setup
