@@ -42,8 +42,8 @@ and create each environments bootstrap file.
 in bootstrap.php 
 
     CakePlugin::load('Environment');
-    App::uses('Environment', 'Berry.Lib');
-	Environment::load(); // check env and loading each env bootstrap.php
+    App::uses('Environment', 'Environment.Lib');
+    Environment::load(); // check env and loading each env bootstrap.php
 
 ### How to switching environment
 
